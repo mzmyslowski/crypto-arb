@@ -1,4 +1,4 @@
-# Crypto Arbitrage Trading Bot
+# Ethereum Arbitrage Trading Bot
 
 This repository contains a Python-based arbitrage trading bot that interacts with Uniswap v2 based decentralized exchanges (DEXs) to identify and exploit arbitrage opportunities.
 
